@@ -1,5 +1,7 @@
 npm create vite@latest
 
+https://jsonplaceholder.typicode.com/todos
+
 
 //MY-REACT-APP
 
