@@ -1,0 +1,35 @@
+npm create vite@latest
+
+
+//MY-REACT-APP
+
+//INTRO E IMPOSTAZIONE REACT
+//COMPONENTI REACT COME FUNZIONI 
+//INTRO PROPS
+// GESTIRE LISTE DI ARRAYS E OGGETTI 
+//PASSARE LISTE DI OGGETTI COME PROPOS
+
+
+//MY-REACT-APP2
+
+//CLICK EVENTS (event without parameters, with parameter and using the event parameter)
+//USESTATE() REACT HOOK (update string, numeric and boolean values)
+//ONCHANGE EVENT HANDLER (application to input,textarea,select and radio)
+//COLOR PICKER MINI PROJECT(applying all we have learned so far)
+
+
+//MY-REACT-APP3
+
+//UPDATER FUNCTION
+//UPDATE THE STATE OF AN OBJECT USING UPDATER FUNCTIONS AND SPREAD OPERATOR
+//UPDATE THE STATE OF AN ARRAY USING UPDATER FUNCTION AND SPREAD OPERATOR
+//UPDATE THE STATE OF AN ARRAY OF OBJECTS (mini project about adding and deleting cars from a list)
+
+
+
+//MY-REACT-APP4
+
+//USEEFFECT REACT HOOK (first intro and first application (change title, count, color))
+//USEEFFECT REACT HOOK (another application (display length and height of the page, clean up function))
+//USECONTEXT REACT HOOK (avoid PROP DRILLING)
+//USEREF REACT HOOK (almost like useState(), except it DOES NOT RERENDER WHEN THE VALUE OF THE VARIABLE CHANGES)
